@@ -22,7 +22,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includ"
         ]
       }
     ],
